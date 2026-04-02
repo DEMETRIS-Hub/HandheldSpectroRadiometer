@@ -1,5 +1,5 @@
 # Config file for Spectroradiometer file extraction pipeline 
-workingDir: C:/Users/André/OneDrive - CNR/Ricerca/Codice/Pipeline_spectroradiometer/Spettri 2026_Mar_24 IsCannoneris
+workingDir: C:\Users\André\OneDrive - CNR\Ricerca\Codice\Pipeline_spectroradiometer\Spettri 2026_Mar_24 IsCannoneris
 destSubDir: out
 spectralEvolutionMetaData:
     - Date
